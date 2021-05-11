@@ -13,7 +13,7 @@
     "chalk": "^4.0.0",
     "cli-progress": "^3.6.1",
     "commander": "^5.0.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "minimatch": "^3.0.4"
   },
   "bin": {
